@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="160.0" y="670.0">com</node>
+    <node x="380.0" y="526.0">images</node>
+    <node x="0.0" y="526.0">netscape</node>
+    <node x="0.0" y="598.0">junit</node>
+    <node x="314.0" y="670.0">org</node>
+    <node x="0.0" y="454.0">toolbarButtonGraphics</node>
+    <node x="0.0" y="271.0">BusTest</node>
+    <node x="0.0" y="670.0">View</node>
+    <node x="468.0" y="670.0">sun</node>
+    <node x="622.0" y="670.0">jdk</node>
+    <node x="190.0" y="526.0">META-INF</node>
+    <node x="0.0" y="0.0">RoadTest</node>
+    <node x="537.0" y="454.0">groovyjarjarasm</node>
+    <node x="503.0" y="598.0">java</node>
+    <node x="555.0" y="526.0">groovy</node>
+    <node x="233.0" y="0.0">CarTest</node>
+    <node x="168.0" y="598.0">javax</node>
+    <node x="336.0" y="598.0">Model</node>
+    <node x="201.0" y="271.0">MotorbikeTest</node>
+    <node x="402.0" y="271.0">groovyjarjarcommonscli</node>
+    <node x="283.0" y="454.0">groovyjarjarantlr</node>
+    <node x="417.0" y="0.0">Main</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="0.7695099818511797" x="585.0" y="46.5" />
+  <SelectedNodes>
+    <node>View</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

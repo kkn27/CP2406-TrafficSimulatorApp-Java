@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>Model</OriginalElement>
+  <nodes>
+    <node x="87.0" y="540.0">Model.Bus</node>
+    <node x="174.0" y="540.0">Model.Motorbike</node>
+    <node x="34.5" y="0.0">Model.Vehicle</node>
+    <node x="0.0" y="540.0">Model.Car</node>
+    <node x="0.0" y="612.0">Model.SaveFile</node>
+    <node x="329.0" y="0.0">Model.Road</node>
+    <node x="645.0" y="0.0">Model.TrafficLight</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="Model.Car" target="Model.Vehicle">
+      <point x="0.0" y="-13.5" />
+      <point x="33.5" y="515.0" />
+      <point x="63.16666666666666" y="515.0" />
+      <point x="-57.33333333333334" y="245.0" />
+    </edge>
+    <edge source="Model.Motorbike" target="Model.Vehicle">
+      <point x="0.0" y="-13.5" />
+      <point x="229.0" y="515.0" />
+      <point x="177.83333333333334" y="515.0" />
+      <point x="57.33333333333334" y="245.0" />
+    </edge>
+    <edge source="Model.Bus" target="Model.Vehicle">
+      <point x="0.0" y="-13.5" />
+      <point x="0.0" y="245.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="452.5" y="339.0" />
+  <SelectedNodes>
+    <node>Model.Bus</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
